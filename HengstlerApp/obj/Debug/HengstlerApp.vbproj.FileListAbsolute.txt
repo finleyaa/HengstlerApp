@@ -1,0 +1,13 @@
+E:\Visual Basic\HengstlerApp\HengstlerApp\bin\Debug\HengstlerApp.exe.config
+E:\Visual Basic\HengstlerApp\HengstlerApp\bin\Debug\HengstlerApp.exe
+E:\Visual Basic\HengstlerApp\HengstlerApp\bin\Debug\HengstlerApp.pdb
+E:\Visual Basic\HengstlerApp\HengstlerApp\bin\Debug\HengstlerApp.xml
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.vbprojAssemblyReference.cache
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.Form1.resources
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.Resources.resources
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.vbproj.GenerateResource.cache
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.exe
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.xml
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.pdb
+E:\Visual Basic\HengstlerApp\HengstlerApp\obj\Debug\HengstlerApp.PortSettings.resources
